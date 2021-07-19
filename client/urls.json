@@ -1,0 +1,5 @@
+{
+    "URL_LOGIN": "http://157.88.123.226:8080/login",
+    "URL_CACHE": "http://157.88.123.226:8080/cache",
+    "URL_DATE": "http://157.88.123.226:8080/date"
+}
